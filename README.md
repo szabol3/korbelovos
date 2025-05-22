@@ -1,4 +1,4 @@
-# Korbelövős MicroPython Projekt
+# Körbelövős MicroPython Projekt
 
 Ez a projekt egy egyszerű, körpályán mozgó lövöldözős játék MicroPython környezethez, SSD1306 OLED kijelzőre optimalizálva. A játékot egyetlen gombbal lehet irányítani. 
 
@@ -30,8 +30,8 @@ Ez a projekt egy egyszerű, körpályán mozgó lövöldözős játék MicroPyth
 
 ## Szerző
 
-Soma (2025)
-Thon of Py oktató: Szabó László
+- Soma (2025)
+- Thon of Py oktató: Szabó László
 ---
 
 A projekt szabadon felhasználható oktatási és hobbi célokra.
