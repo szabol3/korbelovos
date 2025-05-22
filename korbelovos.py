@@ -96,3 +96,12 @@ lovedekek = []  # Lista a lövések tárolására
 # tipus, irany, pozicio
 def main():
     """
+    Ez a függvény a program indításakor futtatja a játékot
+    """
+    # Itt lehetne a jatek logikajat megvalositani
+    # pl. a loves iranyat, sebesseget, stb.
+    print("Játék indítása...")
+    return
+
+if __name__ == "__main__":
+    main()
